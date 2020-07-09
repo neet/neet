@@ -5,7 +5,7 @@
 
 *I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler*
 
-### Statistics
+### Statistics for the last 30 days
 
 | 🌏 Languages | 💻 Coding Activity |
 | :---------- | :------ |
