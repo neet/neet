@@ -6,12 +6,12 @@
   "description": "I'm a software engineer working at @Togetter, and a high schooler",
   "region":      "ja",
   "pronouns":    ["he", "him"],
-  "tags":        ["web", "design", "fp", "reactive", "ddd"],
+  "tags":        ["web", "design", "fp", "ddd"],
   "created_at":  "2002-09-05T00:00:00.000Z"
 }
 ```
 
-### Recent Activity
+### Activity
 
 | 🌏 Languages | 💻 Stats |
 | :---------- | :------ |
@@ -19,7 +19,7 @@
 
 > 🔗 Visit [WakaTime.com/@Ryo](https://wakatime.com/@Ryo) for the detail!
 
-### Social
+### Get in touch
 
 - 🐦 Twitter: [@TheGodOfNeet](https://twitter.com)
 - 🐘 Mastodon: [@neet@mastodon.social](https://mastodon.social/@neet)
