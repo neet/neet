@@ -6,7 +6,7 @@
   "description": "I'm a software engineer working at @Togetter, and a high schooler",
   "region":      "ja",
   "pronouns":    ["he", "him"],
-  "tags":        ["web", "web-frontend", "design", "fp", "reactive", "ddd"],
+  "tags":        ["web", "design", "fp", "reactive", "ddd"],
   "created_at"   "2002-09-05T00:00:00.000Z"
 }
 ```
