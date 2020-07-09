@@ -4,7 +4,7 @@
 
 > 🔗 [Read more](https://neet.love)
 
-### 📈 Statistics
+### Statistics
 
 | 🌏 Languages | 💻 Coding Activity |
 | :---------- | :------ |
@@ -12,7 +12,7 @@
 
 > 🔗 Visit [wakatime.com/@Ryo](https://wakatime.com/@Ryo) for the detail!
 
-### 💌 Get in touch
+### Get in touch
 
 - 🐦 Twitter: [@TheGodOfNeet](https://twitter.com)
 - 🐘 Mastodon: [@neet@mastodon.social](https://mastodon.social/@neet)
