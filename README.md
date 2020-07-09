@@ -7,7 +7,7 @@
   "region":      "ja",
   "pronouns":    ["he", "him"],
   "tags":        ["web", "design", "fp", "reactive", "ddd"],
-  "created_at"   "2002-09-05T00:00:00.000Z"
+  "created_at":  "2002-09-05T00:00:00.000Z"
 }
 ```
 
