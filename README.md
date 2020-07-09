@@ -2,7 +2,7 @@
 
 *I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler*
 
-> 🔗 [Read more](https://neet.love)
+> 🔗 Read more at [neet.love](https://neet.love)
 
 ### Statistics over the Last Month
 
