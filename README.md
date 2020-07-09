@@ -23,8 +23,6 @@
 
 - 🐦 Twitter: [@TheGodOfNeet](https://twitter.com)
 - 🐘 Mastodon: [@neet@mastodon.social](https://mastodon.social/@neet)
-- 🔑 Keybase: [@neet](https://keybase.io/neet)
-- 💌 Telegram: [@neetchan](https://keybase.io/neet)
 - 👾 Discord: `@neet#9999`
 
 > 🔗 Visit [neet.love/links](https://neet.love/links) for more!
