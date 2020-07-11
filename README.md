@@ -4,12 +4,35 @@
 
 ### Hi there 👋
 
-*I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler*
+_I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler_
 
 ### Stats for the last 30 days
 
-| 🌏 Languages | 💻 Coding Activity |
-| :---------- | :------ |
-| <img src="https://wakatime.com/share/@Ryo/6e0dd540-5902-4edf-a1aa-da52a37834f3.svg" alt="Recently used languages" height="260px" /> | <img src="https://wakatime.com/share/@Ryo/2dca4646-5d13-4faf-9154-bda5daddb9af.svg" alt="My coding activity" height="260px" /> |
-
-> 🔗 Visit [wakatime.com/@Ryo](https://wakatime.com/@Ryo) for the detail
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong>🌏 Languages</strong>
+        </th>
+        <th>
+          <strong>💻 Coding Activity</strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://wakatime.com/@Ryo">
+            <img src="https://wakatime.com/share/@Ryo/93b3e530-f53b-4c38-97f9-df75b9b318d2.png" alt="Recently used languages" />
+          </a>
+        </td>
+        <td>
+          <a href="https://wakatime.com/@Ryo">
+            <img src="https://wakatime.com/share/@Ryo/d496b147-8440-48de-860d-afb83a8aebb5.png" alt="My coding activity" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
