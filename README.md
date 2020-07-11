@@ -24,12 +24,12 @@ _I'm a software engineer working at [@Togetter](https://github.com/togetter), an
       <tr>
         <td>
           <a href="https://wakatime.com/@Ryo">
-            <img src="https://wakatime.com/share/@Ryo/93b3e530-f53b-4c38-97f9-df75b9b318d2.png" alt="Recently used languages" />
+            <img src="https://wakatime.com/share/@Ryo/d496b147-8440-48de-860d-afb83a8aebb5.png" alt="Recently used languages" />
           </a>
         </td>
         <td>
           <a href="https://wakatime.com/@Ryo">
-            <img src="https://wakatime.com/share/@Ryo/d496b147-8440-48de-860d-afb83a8aebb5.png" alt="My coding activity" />
+            <img src="https://wakatime.com/share/@Ryo/93b3e530-f53b-4c38-97f9-df75b9b318d2.png" alt="My coding activity" />
           </a>
         </td>
       </tr>
