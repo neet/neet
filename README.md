@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-_I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler, recently working in [Visible](https://github.com/visible/visible)_
+_I'm a software engineer working at [@Togetter](https://github.com/togetter), and a high schooler, recently working on [Visible](https://github.com/visible/visible) project_
 
 ### Stats for the last 30 days
 
