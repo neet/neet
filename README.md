@@ -3,5 +3,5 @@
 
 ### Hi there 👋
 
-_I'm a software engineer working at [@wantedly](https://github.com/wantedly) and [@n1nc](https://github.com/n1nc), recently working on [Visible](https://github.com/visible/visible) project_
+_I'm a software engineer working at [@n1nc](https://github.com/n1nc), previously at [@togetter](https://github.com/togetter) and [@wantedly](https://github.com/wantedly)_
 
