@@ -3,5 +3,5 @@
 
 ### Hi there 👋
 
-_I'm a software engineer, formerly at [@togetter](https://github.com/togetter), [@wantedly](https://github.com/wantedly), and  [@n1nc](https://github.com/n1nc)
+_I'm a software engineer, formerly at [@togetter](https://github.com/togetter), [@wantedly](https://github.com/wantedly), and  [@n1nc](https://github.com/n1nc)_
 
